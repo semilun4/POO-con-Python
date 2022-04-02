@@ -1,6 +1,3 @@
-from concurrent.futures import BrokenExecutor
-
-
 import numpy as np
 
 array = []
