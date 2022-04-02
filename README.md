@@ -11,4 +11,4 @@ Ejemplo de entrada: [1,2,3]
 
 Ejemplo del resultado: 6
 
-Programa: (aquí)[https://github.com/semilun4/POO-con-Python/blob/main/suma.py]
+Programa: [aquí](https://github.com/semilun4/POO-con-Python/blob/main/suma.py)
