@@ -15,7 +15,7 @@ x = 2 y = 3
 Prueba de salida
 5
 
-Programa suma de dos números: [aquí](https://github.com/semilun4/POO-con-Python/blob/main/suma.py)
+Programa suma de dos números: [aquí](https://github.com/semilun4/POO-con-Python/blob/main/fsuma.py)
 
 
 ## Suma de array 
